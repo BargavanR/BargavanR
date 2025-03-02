@@ -26,7 +26,14 @@ I'm always open to collaborating on **robotics, ML, and automation projects**. I
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div style="background-color:#0D1117; padding:15px; border-radius:10px; text-align:center;">
+    <p style="color:#39D353; font-style:italic; font-size:18px;">
+        “The code you write makes you a programmer. The code you delete makes you a good one. <br>
+        The code you don't have to write makes you a great one.”
+    </p>
+    <p style="color:#F778BA; font-weight:bold;">— Mario Fusco</p>
+</div>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BargavanR&limit=5&theme=dark&combine_all_yearly_contributions=true)
